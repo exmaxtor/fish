@@ -2,7 +2,6 @@
     "spider": "./jar/1.jar;md5;282aee405654188f1bc1822bbf137410",
     "logo": "./img/20.gif",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
     "sites": [
         {
             "key": "Douban",
