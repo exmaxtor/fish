@@ -1028,7 +1028,7 @@
           "api": "csp_SecureDanmu",
           "indexs": 0,
           "searchable": 0,
-          "jar": "./jar//danmu-spider-native.jar",
+          "jar": "./jar/danmu-spider-native.jar",
           "ext": {
             "apiUrls": [
               "https://danmu.iyo.us.ci/theft-dastardly-prognosis-hula-agenda2-dropkick|公益源",
