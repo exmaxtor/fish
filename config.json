@@ -20,10 +20,10 @@
             }
         },
         {
-			"key": "py.nangua",
-			"name": "南瓜视频",
+			"key": "rb",
+			"name": "热播APP.py",
 			"type": 3,
-			"api": "./py/南瓜视频.py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/热播APP.py"
         },
         {
             "key": "FishConfig",
