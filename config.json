@@ -1044,6 +1044,12 @@
             "type": 0,
             "url": "http://127.0.0.1:5266/iptv.m3u",
             "playerType": 2
+        },
+        {
+            "name": "弹幕",
+            "type": 1,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json",
+            "playerType": 2
         }
     ],
     "parses": [],
