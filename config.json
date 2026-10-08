@@ -1047,9 +1047,7 @@
         },
         {
             "name": "弹幕",
-            "type": 1,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json",
-            "playerType": 2
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/goodcommunication/mydm/main/dm.json"
         }
     ],
     "parses": [],
